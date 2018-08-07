@@ -1,4 +1,5 @@
 # teste
-# Nome: bruno ferreira de Vasconcelos
+# Nome: Bruno Ferreira de Vasconcelos
 # Empresa: Teleperformance
 # Função: Analista de fraude
+# faculdade: Impacta
